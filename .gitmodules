@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hydroGOF"]
+	path = hydroGOF
+	url = https://github.com/hzambran/hydrogof
+	shallow = true
+	registered = true
+[submodule "hydroPSO"]
+	path = hydroPSO
+	url = https://github.com/hzambran/hydropso
+	shallow = true
+	registered = true
+[submodule "hydroTSM"]
+	path = hydroTSM
+	url = https://github.com/hzambran/hydrotsm
+	shallow = true
+	registered = true
+[submodule "RFmerge"]
+	path = RFmerge
+	url = https://github.com/hzambran/rfmerge
+	shallow = true
+	registered = true

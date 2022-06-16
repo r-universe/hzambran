@@ -1,0 +1,18 @@
+[
+  {
+    "package": "hydroGOF",
+    "oncran": true
+  },
+  {
+    "package": "hydroPSO",
+    "oncran": true
+  },
+  {
+    "package": "hydroTSM",
+    "oncran": true
+  },
+  {
+    "package": "RFmerge",
+    "oncran": true
+  }
+]
