@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "hydroGOF"]
+	path = hydroGOF
+	url = https://github.com/hzambran/hydrogof
 [submodule "hydroTSM"]
 	path = hydroTSM
 	url = https://github.com/hzambran/hydrotsm
